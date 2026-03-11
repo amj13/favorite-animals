@@ -1,0 +1,18 @@
+# Getting Started with your Lab Sandbox
+
+## What tools are already installed in this environment?
+- Browser Preview Extension (enables you to preview HTML and CSS within your Lab)
+
+## How can I find my course files in Visual Studio Code?
+- After opening the lab for the first time or if you have   
+  not used it for a while, it opens to a blank IDE.   
+    If this is the case, click on the **Explore** icon on the left   
+      column (the one that looks like two sheets of paper stacked   
+      …  investigate page elements in your web applications.  
+
+      ### Why am I getting errors in my lab when trying to access other websites?
+      - This Lab Sandbox environment does not have   
+        access to outside websites. Similarly, font-awesome, hyperlinks and   
+          external image and media links will not work in the lab sandbox.  
+            To access these sites, please open these links in a new tab in your 
+              web browser (outside of your lab).
